@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💼 Creating bugs since 2025<br>📚 Currently learning Java<br>🎒 CS Student at UFMG (Universidade Federal de Minas Gerais)</p>
+<p align="left">💼 Creating bugs since 2025<br>📚 Currently learning C<br>🎒 CS Student at UFMG (Universidade Federal de Minas Gerais)</p>
 
 ###
 
